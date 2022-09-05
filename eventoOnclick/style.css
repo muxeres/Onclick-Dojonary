@@ -1,0 +1,119 @@
+.container{
+    height: 600px;
+    width: 800px;
+    margin: 0px 70px;
+    
+
+} 
+.ninjas{
+    margin-top: 30px;
+    width: 450px;
+}
+.navegacion{
+    background-color: #cccccc;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.Busqueda{
+    background-color: white;
+    border: 5px solid black;
+    height: 30px;
+    width: 300px;
+    margin:20px 5px;
+}
+.DescripcionBusqueda{
+    color: #aeaeae;
+    background-color: white;
+    margin: 5px 5px;
+}
+.titulo{
+    
+    margin-left: 20px;
+}
+.login{
+    border: 3px solid black;
+    box-shadow: 2px 3px black ;
+    height: 30px;
+    width: 50px;
+    margin: 25px 30px;
+    color:white;
+    background-color:#2b78e4 ;
+}
+.boton{
+    height: 30px;
+    width: 60px;
+}
+
+.SecondContainer{
+   display: flex;
+}
+
+.ninja1{
+    width: 450px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+}
+.ninja2{
+    width: 450px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    
+}
+.Dtitulo1,.Dtitulo2{
+    margin: 10px 20px  0px 20px;
+}
+.titulo2,.titulo3{
+    margin: 0px 35px;
+}
+.DPlural,.DPlural2{
+    margin: 2px 20px;
+    
+}
+.Trecelikes,.treintalikes{
+    margin: 15px 20px;
+    border: 2px solid black;
+    background-color: orange;
+    box-shadow: 2px 3px black;
+
+}
+.ninjaDesk,.ninjaDesk2{
+    margin: 0px 80px 0px 0px ;
+}
+
+.descripcion,.descripcion3{
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+.descripcion1{
+    margin-top:0px;
+    
+}
+.descripcion4,.descripcion5{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.Defined{
+    height: 150px;
+    width: 320px;
+    border: 2px solid black;
+    display: block;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.line1{
+    margin-left: 20px;
+}
+.line2{
+    margin-left: 20px;
+}
+.addDefinition{
+    margin-left: 20px;
+    border: 3px solid black;
+    background-color:#93c47d ;
+
+}
